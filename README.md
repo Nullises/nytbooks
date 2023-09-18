@@ -1,6 +1,9 @@
 # nytbooks
 App using New York Times API Books Service, using best practices with React, Vite and Daisy UI 
 
+# SEE LIVE
+https://nytbooks.vercel.app/
+
 ## The full list of endpoints is available in this link
 https://developer.nytimes.com/docs/books-product/1/overview
 
