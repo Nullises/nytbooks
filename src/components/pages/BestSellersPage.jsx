@@ -4,7 +4,7 @@ import {
   getCurrentBestSellersListsData,
 } from "../../services/bestSellersListsService";
 import TableBooks from "../common/TableBestSellers";
-import bestSellImg from "../../assets/best_sellers.png";
+import bestSellImg from "/best_sellers.png";
 function BestSellersPage() {
   // controlling local states
   const [listToSearch, setListToSearch] = useState("");

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { getReviews } from "../../services/reviewsService";
 import ErrorMessage from "../common/ErrorMessage";
-import reviewsImg from "../../assets/reviews.png";
+import reviewsImg from "/reviews.png";
 import TableReviews from "../common/TableReviews";
 function ReviewsPage() {
   // controlling local states

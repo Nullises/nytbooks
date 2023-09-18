@@ -1,4 +1,4 @@
-import bookGirl from "../../assets/book_girl.png";
+import bookGirl from "/book_girl.png";
 
 const HomePage = () => {
   return (
